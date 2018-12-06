@@ -3,10 +3,12 @@
 Connects to switchSession Switch 
  
  
+ 
 --- 
 # get-CIOS_Config 
 
 Gets the device Config 
+ 
  
  
 --- 
@@ -15,10 +17,12 @@ Gets the device Config
 Gets the interface information from the switch 
  
  
+ 
 --- 
 # get-CIOS_IntStatus 
 
 Gets the interface Status from the switch 
+ 
  
  
 --- 
@@ -27,10 +31,12 @@ Gets the interface Status from the switch
 Gets the log for the CIOS switch 
  
  
+ 
 --- 
 # get-CIOS_MacTable 
 
 Gets the mac address table 
+ 
  
  
 --- 
@@ -39,10 +45,12 @@ Gets the mac address table
 Gets the version information 
  
  
+ 
 --- 
 # Invoke-CIOS_Command 
 
 Invokes a command via the switch Session 
+ 
  
  
 --- 
@@ -51,15 +59,18 @@ Invokes a command via the switch Session
 Extends Terminal length 
  
  
+ 
 --- 
 # Invoke-CIOS_WaitForPrompt 
 
 Waits for a propmpt symbol in the line feed 
  
  
+ 
 --- 
 # new-CIOS_Credential 
 Creates new CISCO IOS Credentials 
+ 
  
  
  
@@ -69,16 +80,19 @@ Creates a new CIOS Session
  
  
  
+ 
 --- 
 # reset-CIOS_Interface 
 
 Bounces the interface on the switch 
  
  
+ 
 --- 
 # set-CIOS_Session-Credential 
 
 Sets CISCO IOS Credentials for SwitchSession 
+ 
  
  
 --- 
